@@ -1,0 +1,49 @@
+.topnav  a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.glif  a{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding:14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.glif {
+  background-color: #000000;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.glif a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.glif a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
