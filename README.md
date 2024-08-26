@@ -40,6 +40,3 @@ We welcome contributions to enhance VaxiTrace. Please fork the repository, creat
 ## License
 This project is licensed under the MIT License.
 
----
-
-This README provides a comprehensive overview of the VaxiTrace project, emphasizing its key features, technology stack, and setup instructions, while inviting collaboration from the developer community.
