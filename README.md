@@ -1,4 +1,4 @@
-# VaxiTrace: Optimizing COVID-19 Vaccine Distribution with Scalable Web Solutions and Real-Time Analytics
+# VaxiTrace: Optimizing COVID-19 Vaccine Distribution with Real-Time Analytics
 
 ## Overview
 **VaxiTrace** is an advanced COVID-19 vaccine tracking and warehousing system designed to streamline and optimize the distribution process in Maharashtra, India. Developed using React.js and PostgreSQL, this system ensures accurate and efficient management of vaccine doses across multiple distribution points. By leveraging cutting-edge web technologies and cloud infrastructure, VaxiTrace addresses the critical need for reliable, scalable, and secure vaccine distribution during the pandemic.
