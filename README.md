@@ -35,7 +35,7 @@
 6. Access the application via `http://localhost:3000`.
 
 ## Contribution
-We welcome contributions to enhance VaxiTrace. Please fork the repository, create a new branch, and submit a pull request.
+I welcome contributions to enhance VaxiTrace. Please fork the repository, create a new branch, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
